@@ -4,11 +4,14 @@
 .book-library{
 	background-color:#f8f8f8;
 	display:flex;
-	justify-content:center;
+	justify-content:column;
 	
 }
 .price-block{
 	background-color: #2ecc71;
+	border:none;
+	width:100%;
+	margin:10px;
 }
 .author{
 	color: #777777
